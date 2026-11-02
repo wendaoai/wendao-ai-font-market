@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "marketId": "wendao-ai-font-market",
+  "marketVersion": "1.0.0",
+  "generatedAt": "2026-11-02T13:01:45+08:00",
+  "sourceRevision": "split-from-3b3b7a5",
+  "license": "Mixed; see each resource and NOTICE.md",
+  "catalogs": [
+    {
+      "type": "fonts",
+      "version": "2.1.1",
+      "path": "catalogs/fonts.json",
+      "sha256": "939edf7d54f5338af14855aba9ce5aaaa791c7cfbbc4ca3c95b7b26b60a33a2b",
+      "count": 26
+    },
+    {
+      "type": "fonts-extended",
+      "version": "1.0.0",
+      "path": "catalogs/fonts-extended.json",
+      "sha256": "63608e228f4013369371e264984bc6b886faedc823f463c76f0fb34743931cfa",
+      "count": 3
+    }
+  ],
+  "taxonomyPath": "taxonomy/zh-CN.json",
+  "assetBasePath": "assets/",
+  "previewBasePath": "previews/"
+}
