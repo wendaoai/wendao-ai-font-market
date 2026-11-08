@@ -144,11 +144,13 @@ Copyright (c) 2026 Content Workbench. All rights reserved.
 
 提供按需安装的字体、预览与授权文件。应用安装包不内置字体，用户主动安装的字体及导出作品选用的字体可以携带；具体使用范围以每款字体许可证为准。
 
+在线字体目录现为 35 项。2026-11-08 新增思源黑体 SC、霞鹜文楷 TC、站酷小薇体、Playfair Display、Archivo Black、Great Vibes，均保留完整常规字重字库并提供 OFL 许可证。后三款仅提供英文字形。请在资源市场刷新后按需安装。
+
 ### 获取本类资源
 
 在狐文资源中心选择对应分类，可单项安装，也可通过“离线资源包”下载并安装、保存 ZIP 或导入本地 ZIP。资源包与上方应用安装包分别提供；每个 ZIP 都能单独导入，继续导入其他分包会保留已经导入的资源。
 
-离线包 v1.1.0：29 项资源，3 个独立 ZIP，每包严格小于90,000,000字节。镜像仓库的 Git 文件同步与 Release 附件同步分别进行，下表只列已确认的下载来源；最新清单见[统一离线索引](https://gitcode.com/wendao-ai/wendao-ai-prompt-market/blob/master/data/offline-packs.json)。
+以下离线包仍为 v1.1.0（29 项资源，不含上述 6 款新增字体），3 个独立 ZIP，每包严格小于90,000,000字节。镜像仓库的 Git 文件同步与 Release 附件同步分别进行，下表只列已确认的下载来源；最新清单见[统一离线索引](https://gitcode.com/wendao-ai/wendao-ai-prompt-market/blob/master/data/offline-packs.json)。
 
 | 独立包 | 资源数 | GitCode | Gitee |
 | --- | ---: | --- | --- |
